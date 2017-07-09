@@ -1,0 +1,26 @@
+.add-btn{
+    float:left;
+    position: absolute;
+    top: 102px;
+    left: 50px;
+}
+
+.show{
+    display: block;
+    z-index: 1;
+}
+
+
+.card:nth-child(5n+0){
+    margin-left: 0px !important;
+    margin-right: 10px;
+}
+.card{
+     margin-left: 10px;
+    margin-right: 10px;
+    width: 24% !important;
+}
+.card:nth-child(4n+0){
+    margin-left: 0px;
+    margin-right: 0px;
+}
